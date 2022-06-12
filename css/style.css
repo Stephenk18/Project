@@ -94,6 +94,9 @@ section{
    color:var(--white);
    text-transform: uppercase;
 }
+span{
+   color: var(--green);
+}
 
 .heading span{
    /* color:var(--green); */
