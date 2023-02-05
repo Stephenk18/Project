@@ -58,17 +58,17 @@ section{
    display: inline-block;
    margin-top: 1rem;
    border-radius: 5rem;
-   background-color: var(--white);
+   background-color: var(--green);
    cursor: pointer;
-   color:var(--green);
+   color:var(--white);
    font-size: 1.8rem;
    padding:1rem 3rem;
 }
 
 .btn:hover{
    
-   background-color: var(--green);
-   color:var(--white)!important;
+   background-color: var(--white);
+   color:var(--green)!important;
 }
 
 .btn1{
@@ -84,7 +84,7 @@ section{
 
 .btn1:hover{
    background-color: var(--white);
-   color:var(--black);
+   color:var(--green)!important;
 }
 
 .heading{
